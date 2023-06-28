@@ -3,7 +3,7 @@
   
   <li>git init </li>
    
-   <li>git clone https://github.com/CodeUpSubodh/BlogProjectDjango.git</li>
+   <li>git clone https://github.com/CodeUpSubodh/Blogers.git</li>
     <li>virtualenv env</li>
      <li>Set-ExecutionPolicy Unrestricted -Scope Process</li>
       <li>./env/scripts/activate</li>
