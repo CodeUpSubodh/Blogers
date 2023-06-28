@@ -1,4 +1,4 @@
-<h1>To run the project create use below comand one by one</h1>
+<h1>To run the project use below comand one by one</h1>
 <ul>
   
   <li>git init </li>
